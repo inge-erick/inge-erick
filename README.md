@@ -19,9 +19,7 @@
 Exploración y visualización de datos para identificar patrones de escucha entre ciudades.  
 **Stack:** Python, Pandas, Matplotlib  
 
-🔹 [Proyecto 2 - Bot de Trading Automatizado](https://github.com/tuusuario/proyecto2)  
-Sistema que analiza señales de mercado y ejecuta órdenes en modo paper-trading.  
-**Stack:** Python, Alpaca API, Telegram Bot  
+
 
 ---
 
