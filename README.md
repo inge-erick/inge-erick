@@ -33,6 +33,6 @@ Exploración y visualización de datos para identificar patrones de escucha entr
 ---
 
 ## 📫 Conecta conmigo
-- LinkedIn: [Tu Nombre](https://linkedin.com/in/tuperfil)  
-- GitHub: [@tuusuario](https://github.com/tuusuario)  
-- Email: tunombre@correo.com  
+- LinkedIn: [Erick Ivan Morales Puertos](https://linkedin.com/in/erick-ivan-morales-puertos)  
+- GitHub: [inge-erick](https://github.com/inge-erick)  
+- Email: inge.erick.morales@gmail.com  
